@@ -1,0 +1,19 @@
+{
+  "name": "wheather_forcast_api-node.js-",
+  "version": "1.0.0",
+  "description": "wheatherapi Nodejs & Express js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/asmathinfo/Wheather_Forcast_API-Node.js-.git"
+  },
+  "author": "Buhary Asmath",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/asmathinfo/Wheather_Forcast_API-Node.js-/issues"
+  },
+  "homepage": "https://github.com/asmathinfo/Wheather_Forcast_API-Node.js-#readme"
+}
